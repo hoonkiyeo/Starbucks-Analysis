@@ -29,7 +29,7 @@
 
 ![151747461-313f639b-78ef-43ba-aa88-910f982a124e](https://user-images.githubusercontent.com/69660509/176988634-41ab631c-6f2a-4ca6-8865-22ed27a4745e.png)
 
-<img width="700" height="400" alt="Screen Shot 2022-07-02 at 12 57 25 AM" src="https://user-images.githubusercontent.com/69660509/176988609-1f62c17b-d2ef-465a-bb53-032f13787228.png">
+<img width="700" height="430" alt="Screen Shot 2022-07-02 at 12 57 25 AM" src="https://user-images.githubusercontent.com/69660509/176988609-1f62c17b-d2ef-465a-bb53-032f13787228.png">
 
 ### Choropleth map
 
